@@ -1,5 +1,5 @@
 {
-  "name": "yo-meteorapp",
+  "name": "generator-yo-meteorapp",
   "version": "0.0.1beta",
   "description": "Scaffold out a Meteor 1.4.x project",
   "main": "app/index.js",
@@ -14,19 +14,17 @@
     "meteor-generator",
     "meteor-1.4.x"
   ],
-
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/vfonsecapv/yo-meteorapp.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vfonsecapv/yo-meteorapp.git"
   },
-
   "bugs": {
-    "url" : "https://github.com/vfonsecapv/yo-meteorapp/issues"
+    "url": "https://github.com/vfonsecapv/yo-meteorapp/issues"
   },
-
   "dependencies": {
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
+    "winston": "^2.3.0",
     "yeoman-generator": "^1.0.1",
     "yosay": "^1.2.1"
   },
