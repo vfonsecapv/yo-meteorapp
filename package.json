@@ -1,6 +1,6 @@
 {
-  "name": "generator-meteorapp",
-  "version": "1.0",
+  "name": "yo-meteorapp",
+  "version": "0.0.1beta",
   "description": "Scaffold out a Meteor 1.4.x project",
   "main": "app/index.js",
   "scripts": {
@@ -41,6 +41,9 @@
   "devDependencies": {
     "eslint": "^3.12.2",
     "eslint-config-airbnb": "^13.0.0",
-    "eslint-plugin-meteor": "^4.0.1"
+    "eslint-plugin-meteor": "^4.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-import": "^2.1.0",
+    "eslint-plugin-react": "^6.6.0"
   }
 }
