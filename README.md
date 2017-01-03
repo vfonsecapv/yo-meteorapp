@@ -6,7 +6,7 @@
 
 ## Installation
 
-> npm install -g yeoman yo-meteorapp
+> npm install -g yeoman generator-yo-meteorapp
 
 ## Generators
 

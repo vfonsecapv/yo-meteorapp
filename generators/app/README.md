@@ -2,7 +2,7 @@
 
 > yo meteorapp
 
-This will generate a basic file structure for Meteor 1.3
+This will generate a basic file structure for Meteor 1.4.x
 
 File structure:
 

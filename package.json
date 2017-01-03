@@ -1,6 +1,6 @@
 {
   "name": "generator-yo-meteorapp",
-  "version": "0.0.1beta",
+  "version": "0.0.2beta",
   "description": "Scaffold out a Meteor 1.4.x project",
   "main": "app/index.js",
   "scripts": {
