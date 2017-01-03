@@ -1,0 +1,14 @@
+{
+  "name": "<%= title %>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "start": "meteor"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.12.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    "meteor"
+  ],
+  "extends": [
+    "plugin:meteor/recommended"
+  ],
+
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "generators": false,
+      "objectLiteralDuplicateProperties": false
+    }
+  },
+  "rules": {
+
+  }
+}
